@@ -1,2 +1,2 @@
 # Unit-1
-IB Comp sci unit 1
+IB Computer Science Unit 1
