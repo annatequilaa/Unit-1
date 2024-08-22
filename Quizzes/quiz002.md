@@ -7,6 +7,8 @@
 ## Code
 ```.py
 #[SL]
+#note for next time: have meaningful variable names.
+#note for next time 2.0: have a messege prompt for input. 
 a = int(input())
 b = int(input())
 meow = False
