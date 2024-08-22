@@ -31,3 +31,15 @@ print(woof)
 ```
 
 ## Proof of Work
+## SL
+![image](https://github.com/user-attachments/assets/21a78186-fc9e-4fd2-bd7c-abf647c29cb5)
+![image](https://github.com/user-attachments/assets/c441650e-f84f-4f70-a0cc-dc4ea6d18696)
+![image](https://github.com/user-attachments/assets/bf551a46-48cb-4f16-884c-65a4a21caa81)
+![image](https://github.com/user-attachments/assets/f0ec1e1c-d8d7-4d3f-8923-c17bd27394c8)
+
+
+## HL
+![Uploading image.png…]()
+
+
+
