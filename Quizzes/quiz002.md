@@ -19,12 +19,9 @@ print(meow)
 #[HL]
 list_a = input().split(", ")
 list_b = input().split(", ")
-print(list_b)
 woof = False
 count = 0
 for item in list_a:
-    print(list_a[count])
-    print(list_a[count])
     if int(list_a[count]) == 20 or int(list_b[count]) == 20:
         woof = True
     if int(list_a[count]) + int(list_b[count]) == 20:
