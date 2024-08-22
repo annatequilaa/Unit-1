@@ -31,10 +31,12 @@ print(to_print)
 
 
 ## Proof of work
-![image](https://github.com/user-attachments/assets/68929e29-b54c-4a69-93e9-3023695b23f1)
-![image](https://github.com/user-attachments/assets/89abecc8-4cbd-4c41-a2c8-4582476721a9)
-![image](https://github.com/user-attachments/assets/d8cac056-ba4c-4a5e-b416-81cabc5ce6d3)
-![image](https://github.com/user-attachments/assets/f5e22472-cb62-4bb8-9c8d-52d2d41ded69)
+![image](https://github.com/user-attachments/assets/39f0c79e-54dd-4746-acb4-f24d1e2ff0da)
+![image](https://github.com/user-attachments/assets/ca679ec7-f2d6-414b-8cbd-8b3e137e2c16)
+![image](https://github.com/user-attachments/assets/3cd57bea-70bc-4ebe-8809-58f6d4ba9acf)
+![image](https://github.com/user-attachments/assets/4f50965c-938f-4fd8-936d-d1b032700046)
+
+
 
 
 
