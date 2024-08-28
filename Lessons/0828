@@ -1,0 +1,16 @@
+###
+```.py
+number = input("enter a number: ")
+#validate that the user entered a number
+for letter in number:
+    if letter not in "0123456789":
+        print("Number not valid, try again.")
+        exit()
+# factors = []
+num = int(number)
+for i in range(2,num-1):
+    if num % i == 0:
+        print(f"{i} is a factor of {num}")
+#         factors.append(i)
+# print(factors)
+```
