@@ -29,3 +29,4 @@ print(out_protein)
 
 
 ## Proof of Work
+![image](https://github.com/user-attachments/assets/7211581a-aac9-49ba-b448-5d2f5be5b4fb)
