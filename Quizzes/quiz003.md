@@ -18,8 +18,7 @@ elif in_protein == "G":
         out_protein = "C"
 print(out_protein)
 
-HL
-#method 1
+#HL
 dictDNA = {"A":"T","G":"C", "T":"A", "C":"G"}
 out_protein = ""
 in_protein = str(input("enter a DNA protein"))
