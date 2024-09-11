@@ -3,6 +3,11 @@
 ## Paper solution
 ![image](https://github.com/user-attachments/assets/4401afd4-f939-4975-871f-17a4de226cf5)
 
+## Flow Chart
+### HL SL combined
+![image](https://github.com/user-attachments/assets/172d29ee-3c77-4704-aa3c-5f1a69d38ca7)
+
+
 ## Code
 ```.py
 num = int(input("enter a number: "))
