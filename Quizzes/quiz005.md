@@ -14,7 +14,7 @@ def SL(word):
             if char == lower[i] or char == upper[i]:
                 total += i + 1
                 break
-            if char == " ":
+            elif char == " ":
                 total -= 32
                 break
     return total
@@ -29,7 +29,7 @@ def HL(word):
             elif char == upper[i]:
                 total += i + 1344
                 break
-            if char == " ":
+            elif char == " ":
                 total -= 32
                 break
     return total
