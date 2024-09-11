@@ -3,6 +3,10 @@
 ![image](https://github.com/user-attachments/assets/de0e09ff-a3b2-498f-bc06-4d7efd1685f0)
 
 ## Flowchart
+### SL
+![image](https://github.com/user-attachments/assets/d3dacd29-7009-4d20-b3a0-caaa29c40657)
+
+### HL
 
 ## Code
 ```.py
