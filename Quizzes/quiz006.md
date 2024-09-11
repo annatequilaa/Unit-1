@@ -8,6 +8,7 @@
 ![image](https://github.com/user-attachments/assets/a784efdb-f4ca-4c05-8795-bf97628828ae)
 
 ### With variable names coherent with my code:
+![image](https://github.com/user-attachments/assets/2a998c51-2aa0-418b-8fe2-9cfd46fa9a4b)
 
 
 ## Code
