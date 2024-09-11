@@ -5,6 +5,7 @@
 
 ## Flow Chart
 ### HL SL combined
+I realized this after I have deleted the file (due to storage running out), but the assigning variables process should be put in a rectangle and not a parallelogram. Only input or output should be in a parallelogram. 
 ![image](https://github.com/user-attachments/assets/172d29ee-3c77-4704-aa3c-5f1a69d38ca7)
 
 
