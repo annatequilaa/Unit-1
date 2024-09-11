@@ -1,5 +1,5 @@
 ## Paper Solution
-![image](https://github.com/user-attachments/assets/af390bf0-9afb-4a3d-b42c-b8ae28078760)
+
 
 ## Code
 ```.py
