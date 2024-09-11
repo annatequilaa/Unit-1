@@ -8,7 +8,7 @@
 ![image](https://github.com/user-attachments/assets/35df39d4-7e33-4572-aeb6-dc8cc25d9209)
 
 ### HL
-I realized this after I have deleted the file (due to storage running out), but the assigning variables process should be put in a rectangle and not a parallolegram. 
+I realized this after I have deleted the file (due to storage running out), but the assigning variables process should be put in a rectangle and not a parallelogram. Only input or output should be in a parallelogram. 
 ![image](https://github.com/user-attachments/assets/c34e220c-b8ca-47ad-a942-3de0c3f34b64)
 
 
