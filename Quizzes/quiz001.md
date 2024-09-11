@@ -3,6 +3,8 @@
 ## Paper solution
 ![image](https://github.com/user-attachments/assets/56723ade-bb17-425d-be14-9cef29f6ba5e)
 
+## flow chart
+![fc001 drawio](https://github.com/user-attachments/assets/4f73fb8d-5b38-499c-a494-fa8fd3357088)
 
 ## Code
 ```.py
