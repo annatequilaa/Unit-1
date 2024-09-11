@@ -7,7 +7,7 @@
 lower = "abcdefghijklmnopqrstuvwxyz"
 upper = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 
-def the_function(word):
+def SL(word):
     total = 0
     for char in word:
         for i in range(len(lower)):
@@ -19,7 +19,24 @@ def the_function(word):
                 break
     return total
 
-print(the_function(str(input("Enter a word: "))))
+def HL(word):
+    total = 0
+    for i in word:
+        if i == " ":
+            total -= 32
+        elif i in upper:
+            total += upper.index(i) + 1344
+        else:
+            total += lower.index(i) + 1
+    return total
+
+#test cases
+print(SL("Math"))
+print(SL("maTH"))
+print(SL("Hello world"))
+print(SL("Computer SCIENCE"))
+print(HL("Math"))
 ```
 
 ## Proof of Work
+![image](https://github.com/user-attachments/assets/1fea3cc0-b174-426a-8be9-06a864fc48d4)
