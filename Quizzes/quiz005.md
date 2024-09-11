@@ -2,6 +2,11 @@
 
 ## Paper solution
 
+## Flow Chart
+### SL
+![image](https://github.com/user-attachments/assets/ac683e49-ad0e-403a-b17c-32dd912493ca)
+
+
 ## Code
 ```.py
 lower = "abcdefghijklmnopqrstuvwxyz"
