@@ -21,13 +21,17 @@ def SL(word):
 
 def HL(word):
     total = 0
-    for i in word:
-        if i == " ":
-            total -= 32
-        elif i in upper:
-            total += upper.index(i) + 1344
-        else:
-            total += lower.index(i) + 1
+    for char in word:
+        for i in range(len(lower)):
+            if char == lower[i]:
+                total += i + 1
+                break
+            elif char == upper[i]:
+                total += i + 1344
+                break
+            if char == " ":
+                total -= 32
+                break
     return total
 
 #test cases
