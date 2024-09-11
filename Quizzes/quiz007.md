@@ -2,6 +2,8 @@
 ## Paper Solution
 ![image](https://github.com/user-attachments/assets/de0e09ff-a3b2-498f-bc06-4d7efd1685f0)
 
+## Flowchart
+
 ## Code
 ```.py
 import random
