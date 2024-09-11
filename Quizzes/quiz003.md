@@ -3,6 +3,12 @@
 ## Paper solution
 ![image](https://github.com/user-attachments/assets/a1e89694-39c3-460b-bb9c-a5ee80fe0c2f)
 
+## Flow Chart
+### SL
+![image](https://github.com/user-attachments/assets/35df39d4-7e33-4572-aeb6-dc8cc25d9209)
+
+### HL
+
 
 ## Code
 ```.py
