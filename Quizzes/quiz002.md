@@ -4,10 +4,14 @@
 ![image](https://github.com/user-attachments/assets/ae94a8a9-3586-4508-9ef1-ef727c4f59a3)
 
 ## Flow Chart
-SL
+### SL
 ![image](https://github.com/user-attachments/assets/f975fc2f-ffc3-443b-8e88-334dee8523a8)
-HL
-![image](https://github.com/user-attachments/assets/799774ad-8f2c-450a-81ab-bef895913f74)
+
+### HL
+(the "END" is written because I had a typo and didn't save the flowchart so writing it is the only way I can fix it)
+
+![image](https://github.com/user-attachments/assets/bb4cc7b0-1d29-4735-a45f-029bae336897)
+
 
 
 ## Code
