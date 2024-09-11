@@ -14,7 +14,7 @@ def SL():
     output = ""
     for i in range(20):
         n = random.randint(0,len(options))
-        output = output + options[n]
+        output = += options[n]
     return output
 
 def HL(length:int, boo):
