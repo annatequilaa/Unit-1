@@ -6,6 +6,9 @@
 ### SL
 ![image](https://github.com/user-attachments/assets/ac683e49-ad0e-403a-b17c-32dd912493ca)
 
+### HL
+![image](https://github.com/user-attachments/assets/f13448d6-43da-4d37-9eb5-d7996174edd6)
+
 
 ## Code
 ```.py
@@ -48,4 +51,5 @@ print(HL("Math"))
 ```
 
 ## Proof of Work
-![image](https://github.com/user-attachments/assets/1fea3cc0-b174-426a-8be9-06a864fc48d4)
+![image](https://github.com/user-attachments/assets/92864d84-6079-4c36-96e2-b454107ef34b)
+
