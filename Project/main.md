@@ -1,7 +1,7 @@
 # Criterion A: Planning
 
 ## Problem definition (more specific)
-My client, Silco, is the owner of the Zaun Company. His employees are suffering from security breaches, where unauthorized individuals gain access and even controls to sensitive company information and systems. In the past they have used basic password management, such as physically recording passwords and relying on individual memory, but it presents many limitations, like people forgetting passwords, writing them physically on paper and postits that anyone can see, or using weak passwords that can easily get hacked. My client is concerned about...
+My client, Silco, is the owner of the Zaun Company. His employees are suffering from security breaches, where unauthorized individuals gain access and even controls to sensitive company information and systems. In the past they have used basic password management, such as physically recording passwords and relying on individual memory, but it presents many limitations, like people forgetting passwords, writing them physically on paper and postits that anyone can see, or using weak passwords that can easily get hacked. [My client is concerned about...???]
 ## Proposed Solution
 I propose to create a hidden and secure password manager software for my client, this solves their problems because:
 * eeeee
