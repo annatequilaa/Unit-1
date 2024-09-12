@@ -1,11 +1,13 @@
 # Criterion A: Planning
 
 ## Problem definition (more specific)
-My client, Silco, is the owner of the Zaun Company. His employees are suffering from security breaches, where unauthorized individuals gain access and even controls to sensitive company information and systems. In the past they have used basic password management, such as physically recording passwords and relying on individual memory, but it presents many limitations, like people forgetting passwords, writing them physically on paper and postits that anyone can see, or using weak passwords that can easily get hacked. [My client is concerned about...???]
+My client, Silco, is the owner of the Zaun Company. His employees are suffering from security breaches, where unauthorized individuals gain access and even controls to sensitive company information and systems. In the past, they have stored passwords physically or relied on memorization. However, this presents many limitations. When people memorize their passwords, they are prone to forgetting passwords and taking extra time to retrieve it, or setting weak and repetitive passwords for different websites, which can be easily hacked into. Furthermore, people recording the passwords physically on paper and postits have the risk of the physical objects being accessible to everyone, hence not having much security. My client is concerned about future cycber attacks. 
+
 ## Proposed Solution
 I propose to create a hidden and secure password manager software for my client, this solves their problems because:
 * The software isn't physical and accessible to everyone. Only a user with the secret code will be able to access the content, hence reducing the risks of getting cyber attacked. 
-* The software will store the password and username in a file and cypher it so when an employee forgets their password, it is accessible but also secure. This way, people can also use stronger passwords without the fear of forgetting it. 
+* The software will store the password and username in a file and cypher it so when an employee forgets their password, it is accessible but also secure. This way, people can also use stronger passwords without the fear of forgetting it.
+* The software's password managing feature will be masked with a daily-use feature such as calculator or to-do list. This way, the employees could keep the software with them at all times, with the password managing feature not being accessible to anyone who has access to the device with the software. 
 
 ## Success Criteria (Be more specific than this, more specific = better)
 1. The calculator should accept user input to perform basic operations (addition, subtraction, multiplication, division).
