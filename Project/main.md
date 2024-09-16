@@ -36,3 +36,8 @@ I propose to create a hidden and secure password manager software for my client,
 
 
 ## Record of Tasks
+| Task Number | Planned Action                | Planned Outcome                                                 | Time Estimated | Target Completion Date | Criterion |
+|-------------|-------------------------------|-----------------------------------------------------------------|----------------|------------------------|-----------|
+| 1           | First meeting with the client | Obtained a problem definition, understand what the situation is | 10 min         | Sep 10th               | A         |
+| 2           | Set criteria                  |                                                                 | 20 min         | Sep 10th               | A         |
+| 3           | Complete system diagram       |                                                                 | 20 min         | Sep 16th               | B         |
