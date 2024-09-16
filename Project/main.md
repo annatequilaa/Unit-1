@@ -22,6 +22,7 @@ I propose to create a hidden and secure password manager software for my client,
 # Criterion B: Design
 
 ### System Diagram
+![image](https://github.com/user-attachments/assets/1b19e6f0-5940-4abe-997c-36aea1791610)
 
 ### Flow diagrams for algorithms
 
