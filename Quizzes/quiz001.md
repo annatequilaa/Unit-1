@@ -1,5 +1,8 @@
 # Quiz001 2024/08/21
 
+## Prompt
+![image](https://github.com/user-attachments/assets/fb674f7f-730d-4be5-9fc9-76078364f60a)
+
 ## Paper solution
 ![image](https://github.com/user-attachments/assets/56723ade-bb17-425d-be14-9cef29f6ba5e)
 
