@@ -10,8 +10,8 @@ I propose to create a hidden and secure password manager software for my client,
 * The software's password managing feature will be masked with a daily-use feature such as calculator or to-do list. This way, the employees could keep the software with them at all times, with the password managing feature not being accessible to anyone who has access to the device with the software. 
 
 ## Success Criteria (Be more specific than this, more specific = better)
-1. The calculator should accept user input to perform basic operations (addition, subtraction, multiplication, division).
-1. The calculator can handle typical errors (e.g., division by zero) and give appropriate feedback.
+1. The to-do list feature should accept user input to add, delete, mark as complete, and undo tasks on a list. 
+1. The calculator can handle typical errors (e.g., no input, duplicated tasks) and give appropriate feedback.
 1. If the user enters the secret code ("vand3r"), the program will change modes and act as a password manager.
 1. In password manager mode, the user should be able to perform CRUD operations (Create, Replace, Update, Delete):
    * Add a password (for example, for a website).
