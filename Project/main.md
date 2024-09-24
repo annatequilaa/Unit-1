@@ -11,7 +11,7 @@ I propose to create a hidden and secure password manager software for my client,
 
 ## Success Criteria (Be more specific than this, more specific = better)
 1. The to-do list feature should accept user input to add, delete, mark as complete, and undo tasks on a list. 
-1. The calculator can handle typical errors (e.g., no input, duplicated tasks) and give appropriate feedback.
+1. The to-do list can handle typical errors (e.g., no input, duplicated tasks) and give appropriate feedback.
 1. If the user enters the secret code ("vand3r"), the program will change modes and act as a password manager.
 1. In password manager mode, the user should be able to perform CRUD operations (Create, Replace, Update, Delete):
    * Add a password (for example, for a website).
