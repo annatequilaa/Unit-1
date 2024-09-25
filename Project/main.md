@@ -22,7 +22,8 @@ I propose to create a hidden and secure password manager software for my client,
 # Criterion B: Design
 
 ### System Diagram
-![image](https://github.com/user-attachments/assets/1b19e6f0-5940-4abe-997c-36aea1791610)
+![image](https://github.com/user-attachments/assets/5b671491-2f86-4368-bba6-4f4fe9858dab)
+
 
 ### Flow diagrams for algorithms
 
@@ -36,8 +37,12 @@ I propose to create a hidden and secure password manager software for my client,
 
 
 ## Record of Tasks
-| Task Number | Planned Action                | Planned Outcome                                                 | Time Estimated | Target Completion Date | Criterion |
-|-------------|-------------------------------|-----------------------------------------------------------------|----------------|------------------------|-----------|
-| 1           | First meeting with the client | Obtained a problem definition, understand what the situation is | 10 min         | Sep 10th               | A         |
-| 2           | Set criteria                  |                                                                 | 20 min         | Sep 10th               | A         |
-| 3           | Complete system diagram       |                                                                 | 20 min         | Sep 16th               | B         |
+| Task Number |           Planned Action           |                         Planned Outcome                         | Time Estimated | Target Completion Date | Criterion |
+|:-----------:|:----------------------------------:|:---------------------------------------------------------------:|:--------------:|:----------------------:|:---------:|
+| 1           | First meeting with the client      | Obtained a problem definition, understand what the situation is | 10 min         | Sep 10th               | A         |
+| 2           | Set criteria                       |                                                                 | 20 min         | Sep 10th               | A         |
+| 3           | Complete system diagram            |                                                                 | 20 min         | Sep 16th               | B         |
+| 4           | Complete to-do list function       |                                                                 | 90 min         | Sep 24rd               | C         |
+| 5           | Complete password manager function |                                                                 | 90 min         | Sep 25th               | C         |
+| 6           | Complete 3 flow diagrams           |                                                                 | 45 min         | Sep 26th               | B         |
+| 7           | Finalize record of tasks           |                                                                 | 10 min         | Sep 27th               | B         |
