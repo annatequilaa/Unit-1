@@ -1,6 +1,6 @@
 # Criterion A: Planning
 
-## Problem definition (more specific)
+## Problem definition
 My client is the owner of a medicine Company. His employees are suffering from security breaches, where unauthorized individuals gain access and even controls to sensitive company information and systems. This endangers many of their clients since the sensitive information are no longer secure and medicines are important. In the past, they have stored passwords physically or relied on memorization. However, this presents many limitations. When people memorize their passwords, they are prone to forgetting passwords and taking extra time to retrieve it, or setting weak and repetitive passwords for different websites, which can be easily hacked into. Furthermore, people recording the passwords physically on paper and postits have the risk of the physical objects being accessible to everyone, hence not having much security. My client is concerned about future cycber attacks. 
 
 ## Proposed Solution
