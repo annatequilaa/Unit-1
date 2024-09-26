@@ -28,15 +28,20 @@ I propose to create a hidden and secure password manager software for my client,
 ![image](https://github.com/user-attachments/assets/a713a9da-746e-49e5-9e6e-779b069ee655)
 
 ### Flow diagrams for algorithms
+
 ![view_tasks drawio (1)](https://github.com/user-attachments/assets/2e5e72e5-321d-4819-809b-66aab296c0e0)
 
 
 **Fig. 1** This is the flow diagram for the algorithm used to check whether a list is empty and, based on that, display the to-do list. 
 
 
+
+
 ![add_login drawio](https://github.com/user-attachments/assets/2eddae4c-13a2-492d-8ec4-c0dafc880854)
 
 **Fig. 2** This is the flow diagram for the algorithm used to add login information (username and password) and save it to the database. This also checks for whether the input is valid. 
+
+
 
 
 ![cypher drawio](https://github.com/user-attachments/assets/07448092-f3f9-4c4a-9e4c-ae5dc780243f)
