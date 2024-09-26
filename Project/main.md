@@ -28,8 +28,10 @@ I propose to create a hidden and secure password manager software for my client,
 ![image](https://github.com/user-attachments/assets/a713a9da-746e-49e5-9e6e-779b069ee655)
 
 ### Flow diagrams for algorithms
+![view_tasks drawio](https://github.com/user-attachments/assets/2b01ef5c-2458-4c32-ab11-6c66ce4b181c)
+**Fig. 1** This is the flow diagram for the algorithm used to check whether a list is empty and, based on that, display the to-do list. 
 
-**Fig. 1** This is the flow diagram for the algorithm used to search in the data file...
+**Fig. 2** This is the flow diagram for the algorithm used to search in the data file...
 
 ### Data storage
 
