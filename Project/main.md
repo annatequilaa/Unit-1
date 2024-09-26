@@ -71,7 +71,7 @@ I use CSV files to store data in this product for easy access. However, I encryp
 
 
 ## Sources
-for this part of the code in to_do.py:
+For this part of the code in to_do.py:
 ```.py
 from time import sleep
 for i in range(10):
@@ -79,3 +79,16 @@ for i in range(10):
     sleep(0.5)
 ```
 I used https://www.freecodecamp.org/news/the-python-sleep-function-how-to-make-python-wait-a-few-seconds-before-continuing-with-example-commands/ as reference 
+
+For the  ```.py clear()``` function in mylib.py:
+```.py
+from os import system, name
+def clear():
+    #windows
+    if name == 'nt':
+        _ = system('cls')
+    #mac
+    else:
+        _ = system('clear')
+```
+I used code from https://stackoverflow.com/questions/27241268/clear-pycharm-run-window answered by Mahak Khurmi (2021) and edited by vayana (2023). 
