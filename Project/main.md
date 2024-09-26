@@ -68,3 +68,14 @@ I use CSV files to store data in this product for easy access. However, I encryp
 | 7           | Complete 3 flow diagrams           | Diagrams that visually represent how some key functions in the product works.                                                                                                                                    | 45 min         | Sep 26th               | B         |
 | 8           | Record a demonstration             | Offers the client a preview of the product for feedback from the client to improve the product to their request if needed.                                                                                       | 20 min         | Sep 26th               | D         |
 | 9           | Finalize record of tasks           | Double check everything on record of tasks to ensure everything is completed and documented.                                                                                                                     | 10 min         | Sep 27th               | B         |
+
+
+## Sources
+for this part of the code in to_do.py:
+```.py
+from time import sleep
+for i in range(10):
+    print("...")
+    sleep(0.5)
+```
+I used https://www.freecodecamp.org/news/the-python-sleep-function-how-to-make-python-wait-a-few-seconds-before-continuing-with-example-commands/ as reference 
