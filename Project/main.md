@@ -33,9 +33,18 @@ I propose to create a hidden and secure password manager software for my client,
 
 **Fig. 1** This is the flow diagram for the algorithm used to check whether a list is empty and, based on that, display the to-do list. 
 
-**Fig. 2** This is the flow diagram for the algorithm used to search in the data file...
+
+![add_login drawio](https://github.com/user-attachments/assets/2eddae4c-13a2-492d-8ec4-c0dafc880854)
+
+**Fig. 2** This is the flow diagram for the algorithm used to add login information (username and password) and save it to the database. This also checks for whether the input is valid. 
+
+
+![cypher drawio](https://github.com/user-attachments/assets/07448092-f3f9-4c4a-9e4c-ae5dc780243f)
+
+**Fig. 3** This is the flow diagram for the algorithm used to cypher the passwords by shifting each character in the password along the string I have created. 
 
 ### Data storage
+I use CSV files to store data in this product for easy access. However, I encrypt the saved passwords to prevent information being insecure because of the easy access to CSV files. My two CSV files are todo_db.csv and login_db.csv. 
 
 ### Sketches of the application (wireframe diagrams)
 
