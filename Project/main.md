@@ -13,11 +13,12 @@ I propose to create a hidden and secure password manager software for my client,
 1. The to-do list feature should accept user input to add, delete, mark as complete, and undo tasks on a list. 
 1. The to-do list can handle typical errors (e.g., no input, duplicated tasks) and give appropriate feedback.
 1. If the user enters the secret code ("vand3r"), the program will change modes and act as a password manager.
-1. In password manager mode, the user should be able to perform CVUD operations (Create, View, Update, Delete):
+1. In password manager mode, the user should be able to perform CVUD operations (Create, View, Update, Delete) after entering the secret code:
    * Add a password (for example, for a website).
    * View the stored log-in information.
    * Update a stored password by entering the corresponding username.
-   * Delete a stored log-in information (username + password) by entering the corresponding username..
+   * Delete a stored log-in information (username + password) by entering the corresponding username.
+1. The terminal will be cleared every time after the secret code is entered to ensure that the secret code is safe. 
 1. Save passwords permanently and securely in a csv file by cyphering it with shift 12 within a string I made. This way, people can't guess the password even if they know the alphabet shift, because the string I used isn't just alphabets: it also includes number and randomly ordered special characters.
 1. User could quit the password manager mode without closing the whole program. Quitting the password manager mode will lead user back to to-do list feature.
 1. Use the terminal to interact with the user, and give appropriate feedback when input is invalid. 
