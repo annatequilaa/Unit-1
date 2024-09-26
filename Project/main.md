@@ -71,6 +71,8 @@ I use CSV files to store data in this product for easy access. However, I encryp
 | 9           | Finalize record of tasks           | Double check everything on record of tasks to ensure everything is completed and documented.                                                                                                                     | 10 min         | Sep 27th               | B         |
 
 
+# Criterion C: Development
+
 ## Sources
 For this part of the code in to_do.py:
 ```.py
