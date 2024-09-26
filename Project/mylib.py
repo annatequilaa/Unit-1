@@ -138,13 +138,13 @@ def delete_login(username):
     else:
         return False
 
-def update_login(username,n_password):
+def update_login(username, n_password):
     dict = get_login()
     if username in dict:
-        dict[username] = n_password
+        dict[username] = cypher(n_password)
         with open('login_db.csv', 'w') as f:
             for username, password in dict.items():
-                f.write(f"{username}, {cypher(password)}\n")
+                f.write(f"{username}, {password}\n")
         return True
     else:
         return False
