@@ -127,16 +127,18 @@ def add_login(username, password):
         return False
 
 
+
 def delete_login(username):
-    dict = get_login()
-    if username in dict:
-        del dict[username]
+    login_dict = get_login()
+    if username in login_dict:
+        del login_dict[username]
         with open('login_db.csv', 'w') as f:
-            for username, password in dict.items():
-                f.write(f"{username}, {cypher(password)}\n")
+            for username, password in login_dict.items():
+                f.write(f"{username}, {password}\n")
         return True
     else:
         return False
+
 
 def update_login(username, n_password):
     dict = get_login()

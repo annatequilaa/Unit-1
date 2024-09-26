@@ -129,13 +129,14 @@ def password_manager():
             elif p_option == "v" or p_option == "V":
                 print(f"\n{yellow}Here's the current list of log-in infos: \n{view_logins(get_login())}")
 
+
             elif p_option == "d" or p_option == "D":
                 print(f"{yellow}\nHere's your current list of log-in infos: \n{view_logins(get_login())}")
                 if len(get_login()) < 1:
                     continue
                 delete = input(f"{blue}Enter the username of the log-in info you want to delete: ")
                 validness = delete_login(delete)
-                if not validness == False:
+                if validness == True:
                     print(f"{yellow}\nHere's your updated list of log-in infos: \n{view_logins(get_login())}")
                 else:
                     print(f"{end_code}Username entered is blank or doesn't exist")
