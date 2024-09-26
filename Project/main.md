@@ -91,6 +91,9 @@ I use CSV files to store data in this product for easy access. However, I encryp
 
 # Criterion C: Development
 
+## Video demonstration
+https://drive.google.com/file/d/1Wmh9NT_Pyl914XW4IidZXmc86s3_y0_y/view?usp=sharing
+
 ## Sources
 For this part of the code in to_do.py:
 ```.py
@@ -113,6 +116,3 @@ def clear():
         _ = system('clear')
 ```
 I used code from https://stackoverflow.com/questions/27241268/clear-pycharm-run-window answered by Mahak Khurmi (2021) and edited by vayana (2023). 
-
-
-## Video demonstration
