@@ -18,7 +18,7 @@ I propose to create a hidden and secure password manager software for my client,
    * View the stored log-in information.
    * Update a stored password by entering the corresponding username.
    * Delete a stored log-in information (username + password) by entering the corresponding username..
-1. Save passwords permanently and securely by cyphering it with shift 12.
+1. Save passwords permanently and securely by cyphering it with shift 12 within a string I made. This way, people can't guess the password even if they know the alphabet shift, because the string I used isn't just alphabets.
 1. User could quit the password manager mode without closing the whole program. Quitting the password manager mode will lead user back to to-do list feature.
 1. Use the terminal to interact with the user, and give appropriate feedback when input is invalid. 
 
