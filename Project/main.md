@@ -18,7 +18,7 @@ I propose to create a hidden and secure password manager software for my client,
    * View the stored log-in information.
    * Update a stored password by entering the corresponding username.
    * Delete a stored log-in information (username + password) by entering the corresponding username..
-1. Save passwords permanently and securely by cyphering it.
+1. Save passwords permanently and securely by cyphering it with shift 12.
 1. User could quit the password manager mode without closing the whole program. Quitting the password manager mode will lead user back to to-do list feature.
 1. Use the terminal to interact with the user, and give appropriate feedback when input is invalid. 
 
@@ -39,12 +39,13 @@ I propose to create a hidden and secure password manager software for my client,
 
 
 ## Record of Tasks
-| Task Number |           Planned Action           |                         Planned Outcome                         | Time Estimated | Target Completion Date | Criterion |
-|:-----------:|:----------------------------------:|:---------------------------------------------------------------:|:--------------:|:----------------------:|:---------:|
-| 1           | First meeting with the client      | Obtained a problem definition, understand what the situation is | 10 min         | Sep 10th               | A         |
-| 2           | Set criteria                       |                                                                 | 20 min         | Sep 10th               | A         |
-| 3           | Complete system diagram            |                                                                 | 20 min         | Sep 16th               | B         |
-| 4           | Complete to-do list function       |                                                                 | 90 min         | Sep 24rd               | C         |
-| 5           | Complete password manager function |                                                                 | 90 min         | Sep 25th               | C         |
-| 6           | Complete 3 flow diagrams           |                                                                 | 45 min         | Sep 26th               | B         |
-| 7           | Finalize record of tasks           |                                                                 | 10 min         | Sep 27th               | B         |
+| Task Number |           Planned Action           |                                                                                                  Planned Outcome                                                                                                 | Time Estimated | Target Completion Date | Criterion |
+|:-----------:|:----------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:--------------:|:----------------------:|:---------:|
+| 1           | First meeting with the client      | Obtained a problem definition, understand what the situation is                                                                                                                                                  | 10 min         | Sep 10th               | A         |
+| 2           | Set criteria                       | Have a detailed critieria that the program will follow to perform all the tasks.                                                                                                                                 | 20 min         | Sep 10th               | A         |
+| 3           | Complete system diagram            | A diagram that visually represents the hardware and software components of the product.                                                                                                                          | 20 min         | Sep 16th               | B         |
+| 4           | Complete test plan                 |                                                                                                                                                                                                                  | 45 min         | Sep 20th               |           |
+| 5           | Complete to-do list function       | Have an interactive to-do list feature that is ran on the terminal which follows the criteria and passes the corresponding tests in the test plan.                                                               | 150 min        | Sep 24rd               | C         |
+| 6           | Complete password manager function | Have a hidden password manager that is activated after a secret code is entered. It should be interactive, ran on the terminal, and follows the criteria hence passing the corresponding tests in the test plan. | 90 min         | Sep 25th               | C         |
+| 7           | Complete 3 flow diagrams           |                                                                                                                                                                                                                  | 45 min         | Sep 26th               | B         |
+| 8           | Finalize record of tasks           |                                                                                                                                                                                                                  | 10 min         | Sep 27th               | B         |
