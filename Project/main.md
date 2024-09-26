@@ -15,7 +15,9 @@ I propose to create a hidden and secure password manager software for my client,
 1. If the user enters the secret code ("vand3r"), the program will change modes and act as a password manager.
 1. In password manager mode, the user should be able to perform CVUD operations (Create, View, Update, Delete):
    * Add a password (for example, for a website).
-   * View the stored passwords (only if they re-enter the secret code).
+   * View the stored log-in information.
+   * Update a stored password by entering the corresponding username.
+   * Delete a stored log-in information (username + password) by entering the corresponding username..
 1. Save passwords permanently and securely by cyphering it.
 1. User could quit the password manager mode without closing the whole program. Quitting the password manager mode will lead user back to to-do list feature.
 1. Use the terminal to interact with the user, and give appropriate feedback when input is invalid. 
