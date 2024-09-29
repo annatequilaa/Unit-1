@@ -1,4 +1,4 @@
-# Quiz014 2024/09/i forgot
+# Quiz014 2024/09
 
 ## Paper solution
 
