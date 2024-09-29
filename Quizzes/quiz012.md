@@ -1,4 +1,4 @@
-# Quiz010 2024/09/16
+# Quiz012 2024/09
 
 ## Paper solution
 ![image](https://github.com/user-attachments/assets/f257f335-2985-4b3f-a642-b513412cae41)
