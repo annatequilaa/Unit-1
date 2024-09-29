@@ -1,7 +1,7 @@
 # Quiz010 2024/09/16
 
 ## Paper solution
-![image](https://github.com/user-attachments/assets/f70765ac-d483-4faf-b990-ddefeb569e22)
+![image](https://github.com/user-attachments/assets/f257f335-2985-4b3f-a642-b513412cae41)
 
 ## Flowchart
 ### SL
