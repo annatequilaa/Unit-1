@@ -16,7 +16,7 @@ def shift(word, n):
             if char in lower:
                 if char == lower[i]:
                     output += lower[(i + n) % len(lower)]
-            if char in upper:
+            elif char in upper:
                 if char == upper[i]:
                     output += upper[(i + n) % len(lower)]
     return output
