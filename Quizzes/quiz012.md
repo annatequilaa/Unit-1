@@ -4,11 +4,7 @@
 ![image](https://github.com/user-attachments/assets/f257f335-2985-4b3f-a642-b513412cae41)
 
 ## Flowchart
-### SL
-
-
-### HL
-
+![image](https://github.com/user-attachments/assets/249c3cec-3d71-442b-a0d3-690ceb89ec50)
 
 ## Code
 ```.py
