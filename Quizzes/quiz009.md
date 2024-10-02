@@ -4,6 +4,7 @@
 ![image](https://github.com/user-attachments/assets/b5a3e492-ba85-4102-9c53-599f83838e40)
 
 ## Flowchart
+![image](https://github.com/user-attachments/assets/7e56c56e-e299-4fb9-9b0d-1e0bfbe97029)
 
 ## Code
 ```.py
