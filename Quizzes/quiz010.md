@@ -4,11 +4,6 @@
 ![image](https://github.com/user-attachments/assets/f70765ac-d483-4faf-b990-ddefeb569e22)
 
 ## Flowchart
-### SL
-
-
-### HL
-
 
 ## Code
 ```.py
@@ -35,5 +30,6 @@ print(powersTen(1, "gram of salt"))
 ```
 
 ## Proof of Work
+![image](https://github.com/user-attachments/assets/5b4f50b2-4a6a-4c68-8561-8e527e273940)
 
 
