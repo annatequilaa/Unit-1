@@ -3,6 +3,7 @@
 ## Paper solution
 
 ## Flowchart
+![image](https://github.com/user-attachments/assets/0da53646-0c29-411f-b6d2-4e8bf8ab29ba)
 
 ## Code
 ```.py
