@@ -1,6 +1,7 @@
 # Quiz014 2024/09
 
 ## Paper solution
+![image](https://github.com/user-attachments/assets/000a1c1e-bcd5-4c2b-915c-ccd3b5f19ec1)
 
 ## Flowchart
 ![image](https://github.com/user-attachments/assets/0da53646-0c29-411f-b6d2-4e8bf8ab29ba)
