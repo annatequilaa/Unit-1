@@ -1,7 +1,7 @@
 # Quiz011 2024/09/18
 
 ## Paper solution
-
+![image](https://github.com/user-attachments/assets/0aad57bc-08cc-4450-857a-ff5abf2fa402)
 
 ## Flowchart
 ![image](https://github.com/user-attachments/assets/b76c22bd-f52c-4476-aafd-13891dfd11b6)
