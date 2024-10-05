@@ -2,10 +2,10 @@
 
 ## Paper solution
 ### a. get_l3tt3r function
+![image](https://github.com/user-attachments/assets/d355b0bd-5721-4df2-a192-acf780efe835)
 
 ### b. boolean circuit for: AB + not(B+C) + B(notC notA)
-
-
+![image](https://github.com/user-attachments/assets/42f6a90f-5875-4a3e-8b5e-3ba9a5e48732)
 
 ## Flowchart
 ![image](https://github.com/user-attachments/assets/8179976f-60bb-4923-a6f3-6c0998e76797)
