@@ -21,11 +21,6 @@ def month(m):
 
     num_days = days_in_month[m-1]
 
-    #validation?
-    if not 1 <= m <= 12:
-        output = ("Invalid month. Please enter a value between 1 and 12.")
-        return output
-
     output += (f"{months[m-1]} 2024\n")
 
 
