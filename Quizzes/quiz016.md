@@ -8,7 +8,7 @@
 
 
 ## Flowchart
-
+![image](https://github.com/user-attachments/assets/8179976f-60bb-4923-a6f3-6c0998e76797)
 
 ## Code
 ```.py
