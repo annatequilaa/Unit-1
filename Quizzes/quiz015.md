@@ -8,15 +8,14 @@
 ## Code
 ```.py
 def open_doors(num_students):
-    count = 0
+    output = 0
     doors = [False]*num_students
     for i in range(num_students):
         for d in range(i, num_students, i + 1):
             doors[d] = not doors[d]
     for d in doors:
         if d == True:
-            count += 1
-    output = count
+            output += 1
     return output
 ```
 
